@@ -1,5 +1,7 @@
-package main.java.net.briann.chemtreelib.Chemical;
+package main.java.net.briann.chemtreelib.chemical;
 
 public class Solution {
     
+
+
 }
